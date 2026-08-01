@@ -55,7 +55,7 @@ ARIA2_SECRET = "nxt_hub"              # Leave blank or set a secret token
 
 # ── Branding ──────────────────────────────────────────────────
 WATERMARK = "@Animeworld_07"
-GROUP_LINK = "https://t.me/Animeworld_07"   # Shown as a button so users can use the bot in the group
+GROUP_LINK = "https://t.me/+b_qf8mwKiNVmYWRl"   # Shown as a button so users can use the bot in the group
 
 # ── Encoding (FFmpeg) ─────────────────────────────────────────
 
