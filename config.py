@@ -4,21 +4,21 @@
 # ═══════════════════════════════════════════════════════════════
 
 # ── Telegram ──────────────────────────────────────────────────
-API_ID           = 12345576
-API_HASH         = "eg6gge7h7eh8eh8wuw"
-BOT_TOKEN        = "your-bot-token"
+API_ID           = 34822566
+API_HASH         = "3ab7815d50c6baec0e564742eee75b33"
+BOT_TOKEN        = "8413124755:AAF966POqZmZDftJZEXF9kyMqmAyj3j6YK4"
 SESSION          = ""           # Pyrogram session string — leave blank for 2 GB limit
                                 # Fill with Premium account session for 4 GB uploads
-OWNER_ID         = 36637377
-LOG_CHANNEL      = -1002329593883
+OWNER_ID         = 7560349494
+LOG_CHANNEL      = -1003580590124
 AUTHORIZED_CHATS = []           # e.g. [123456789, -1001234567890]
 
 
 # ── MongoDB ───────────────────────────────────────────────────
 # Paste your MongoDB Atlas URI here. Leave blank for flat-file fallback.
 # Example: "mongodb+srv://user:pass@cluster0.abcde.mongodb.net/?retryWrites=true"
-MONGO_URI = " "
-MONGO_DB  = "nxthub"
+MONGO_URI = "mongodb+srv://thilakff007:0U8T4Aiaoqmje2UD@shadow.vetq4tn.mongodb.net/?appName=Shadow"
+MONGO_DB  = "thilakff007"
 
 # ── JDownloader (MyJDownloader.org) ──────────────────────────────────
 JD_EMAIL    = ""   # your MyJDownloader account email
@@ -54,8 +54,8 @@ ARIA2_PORT   = 6800
 ARIA2_SECRET = "nxt_hub"              # Leave blank or set a secret token
 
 # ── Branding ──────────────────────────────────────────────────
-WATERMARK = "@NXT_HUB"
-GROUP_LINK = "https://t.me/+82O7b0uT_g4xNzhl"   # Shown as a button so users can use the bot in the group
+WATERMARK = "@Animeworld_07"
+GROUP_LINK = "https://t.me/Animeworld_07"   # Shown as a button so users can use the bot in the group
 
 # ── Encoding (FFmpeg) ─────────────────────────────────────────
 
@@ -64,7 +64,7 @@ GROUP_LINK = "https://t.me/+82O7b0uT_g4xNzhl"   # Shown as a button so users can
 # automatically forward every leeched file to the channel.
 # The bot must be an admin with "Post Messages" permission there.
 # Leave 0 to disable the dump channel feature.
-DUMP_CHANNEL     = -1004429190957             # e.g. -1001234567890
+DUMP_CHANNEL     = -1003897945290             # e.g. -1001234567890
 DUMP_CHANNEL_TAG = True          # Whether to tag the uploader's username in dump
 
 # ── Web Selection UI ──────────────────────────────────────────
